@@ -60,8 +60,7 @@ The project draws on established Arduino-based robotics designs and is presented
 
 ```text
 firmware/       Arduino firmware
-schematics/     Wiring and circuit material
-docs/           Additional project documentation
+docs/           Project documentation
 ```
 
 Additional project material may be added as the repository is progressively documented.
